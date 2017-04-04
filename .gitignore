@@ -1,0 +1,4 @@
+hadoop-2.7.3.tar.gz
+spark-2.1.0-bin-hadoop2.7.tgz
+spark-2.2.0-SNAPSHOT-bin-2.7.3.tgz
+.env
